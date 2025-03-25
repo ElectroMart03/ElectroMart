@@ -14,11 +14,8 @@ const ProductDescription = () => {
             <div className='flex flex-col gap3 p-3'>
                 <div >
                     <h5 className='h5'>Detail</h5>
-                    <p className='text-sm'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Pariatur possimus nemo perferendis voluptate facilis explicabo fugiat sequi eius hic.
-                        Quam corrupti voluptatem maiores quia quod quasi numquam veniam consequatur doloribus.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Pariatur possimus nemo perferendis voluptate facilis explicabo</p>
+                    <p className='text-sm'>Upgrade your experience, designed to deliver efficiency, convenience, and cutting-edge technology. Whether you're at home, at work, or on the go, this product ensures seamless performance with its key features, e.g., high-speed processing, long battery life, smart connectivity.</p>
+                    <p>With a sleek and durable design, it fits perfectly into your lifestyle while offering enhanced functionality. The latest technology, e.g., AI integration, wireless connectivity, energy-efficient performance ensures that you stay ahead, whether for entertainment, productivity, or everyday use.</p>
                 </div>
                 <div>
                     <h5 className='h5 '>Benefit</h5>
