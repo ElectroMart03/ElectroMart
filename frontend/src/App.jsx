@@ -9,11 +9,9 @@ import { ToastContainer } from "react-toastify"
 import Cart from './assets/pages/Cart'
 import PlaceOrder from './assets/pages/PlaceOrder'
 import Login from './assets/pages/Login'
-import Orders from './assets/pages/orders'
+import Orders from './assets/pages/Orders'
 import Verify from './assets/pages/Verify'
 import Contact from './assets/pages/Contact'
-
-
 
 
 const App = () => {
